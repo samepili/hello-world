@@ -1,5 +1,5 @@
 # hello-world
-Fun Stuff
+Personl Projects
 
 Hello!
 
